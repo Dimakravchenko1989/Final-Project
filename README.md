@@ -16,6 +16,13 @@
 
 Посмотреть [Техническое задание](https://gbcdn.mrgcdn.ru/uploads/asset/5668666/attachment/5a4b32939f7165e4aeebff3acde8c9b4.pdf)
 
+## Ссылка на макет проекта
+
+Посмотреть [Макет](<https://www.figma.com/file/okdYD45Tj2JpKsNASccUmf/Interior-Design-Webflow-Website-Template-(Community)-(Copy)-(Copy)?type=design&node-id=1-5&mode=design&t=EPP9PdQtvZ8kah8U-0>)
+
+## Ссылка на GitHub Pages
+
+Посмотреть [Сайт Interno](https://dimakravchenko1989.github.io/Final-Project/)
 ## Реализованные задачи
 
 1. Применение HTML, CSS, JavaScript, Vue.js.
@@ -43,13 +50,7 @@
 9. Кнопка «Back to home» на странице NotFound(404) ведет на главную страницу.
 10. Сайт выполнен в десктопной версии.
 
-## Ссылка на макет проекта
 
-Посмотреть [Макет](<https://www.figma.com/file/okdYD45Tj2JpKsNASccUmf/Interior-Design-Webflow-Website-Template-(Community)-(Copy)-(Copy)?type=design&node-id=1-5&mode=design&t=EPP9PdQtvZ8kah8U-0>)
-
-## Ссылка на GitHub Pages
-
-Посмотреть [Сайт Interno](https://dimakravchenko1989.github.io/Final-Project/)
 
 ## Настройка проекта
 
