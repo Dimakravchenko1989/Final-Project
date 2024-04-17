@@ -1,24 +1,3 @@
-# app
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-
 # Разработка веб-приложения "Interno"
 # SPA приложение на Vue.js 3.
 
@@ -56,10 +35,10 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
    - Подгружается последний добавленный пост из статей и новостей ("Latest Post")
 
 7. На странице Blog Details
-- Добавлены несколько произвольных статей, с описанием. По нажатию на кнопки в разделе «Tags» происходит сортировка статей по хештегам \"Kitchen\", \"Bedroom\", \"Building\", \"Architecture\", \"Kitchen Planning\".
+- Добавлены несколько произвольных статей, с описанием. По нажатию на кнопки в разделе «Tags» происходит сортировка статей по хештегам "Kitchen", "Bedroom", "Building", "Architecture", "Kitchen Planning".
 
-8. На странице Project (\"Our Project\)
-   - Реализована пагинация для перемещения по страницам в категориях \"Bathroom\", \"BedRoom\", \"Kitchen\", \"LivingArea\".
+8. На странице Project ("Our Project)
+   - Реализована пагинация для перемещения по страницам в категориях "Bathroom", "BedRoom", "Kitchen", "LivingArea".
    - Добавлен функционал лайков (звёздочки). При наведении на любой компонент проекта изначально звёздочка прозрачная, при нажатии на неё, она окрашивается оранжевым цветом.
 9. Кнопка «Back to home» на странице NotFound(404) ведет на главную страницу.
 10. Сайт выполнен в десктопной версии.
